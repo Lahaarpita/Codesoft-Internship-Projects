@@ -1,6 +1,8 @@
 # Codesoft-Internship-Projects
 
-Here's a structured README file for the **Rock-Paper-Scissors** project, complete with a project overview, setup instructions, and usage guidance.
+
+https://github.com/user-attachments/assets/0cda3df7-a886-4f64-9d4f-23744fc8faeb
+
 
 ---
 
