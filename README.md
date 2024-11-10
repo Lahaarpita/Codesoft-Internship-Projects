@@ -1,5 +1,5 @@
 # Codesoft-Internship-Projects
-As part of my internship at Codesoft, I developed and refined several Python projects that showcase my programming skills and problem-solving abilities:
+As part of my internship at Codesoft,I developed and refined several Python projects that showcase my programming skills and problem-solving abilities:
 1.Rockpaperandscissors.py
 2.Passwordgenerator.py
 3.Calculator.py
