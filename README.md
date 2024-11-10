@@ -1,8 +1,8 @@
 # Codesoft-Internship-Projects
-Hello guys lets play the game 
-
-https://github.com/user-attachments/assets/0cda3df7-a886-4f64-9d4f-23744fc8faeb
-
+As part of my internship at Codesoft, I developed and refined several Python projects that showcase my programming skills and problem-solving abilities:
+1.Rockpaperandscissors.py
+2.Passwordgenerator.py
+3.Calculator.py
 ---
 
 # Python Projects Collection 📁
